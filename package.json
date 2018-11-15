@@ -1,6 +1,6 @@
 {
   "name": "@adopisowifi/ng-seconds-format",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angularjs module that provides `adotime` filter. It displays remainig time of customers in a human-readable format.",
   "main": "ado-ng-seconds-format.js",
   "scripts": {

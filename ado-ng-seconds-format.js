@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var App = angular.module('ado.seconds-format');
+  var App = angular.module('ado.seconds-format', []);
 
   App.filter('adotime', function() {
 

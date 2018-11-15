@@ -2,6 +2,9 @@
 
 Angularjs module that provides `adotime` filter. It displays remainig time of customers in a human-readable format.
 
+- Module name: `ado.seconds-format`
+- Filter: `adotime`
+
 ### Usage
 
 ```javascript
