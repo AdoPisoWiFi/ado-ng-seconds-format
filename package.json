@@ -1,0 +1,19 @@
+{
+  "name": "@adopisowifi/ng-seconds-format",
+  "version": "0.0.1",
+  "description": "Angularjs module that provides `adotime` filter. It displays remainig time of customers in a human-readable format.",
+  "main": "ado-ng-seconds-format.js",
+  "scripts": {
+    "publish-package": "git push && git push --tags && npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdoPisoWiFi/ado-ng-seconds-format.git"
+  },
+  "author": "AdoPisoWiFi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdoPisoWiFi/ado-ng-seconds-format/issues"
+  },
+  "homepage": "https://github.com/AdoPisoWiFi/ado-ng-seconds-format#readme"
+}
